@@ -1,0 +1,67 @@
+*{
+  
+}
+body{
+  margin: 0px;
+}
+header{
+  margin: 0px;
+}
+.logo{
+  margin: 0px;
+  display: inline-block;
+  height: 50px;
+}
+.logo a{
+  margin: 0px;
+  display: inline-block;
+  padding: 7px 0px;
+  text-decoration: none;
+}
+.img1{
+  width: 70px;
+  position: absolute;
+  top: -33px;
+  left: 97px;
+}
+.nav{
+  margin: 0px;
+  display: inline-block;
+  height: 50px;
+  float: right;
+}
+.home{
+  margin: 0px;
+  display: inline-block;
+  margin-right: 10px;
+  padding: 12px 0px;
+}
+.home a{
+  text-decoration: none;
+}
+.products{
+  margin: 0px;
+  display: inline-block;
+  margin-right: 10px;
+  padding: 12px 0px;
+}
+.products a{
+  text-decoration: none;
+}
+.services{
+  margin: 0px;
+  display: inline-block;
+  margin-right: 10px;
+  padding: 12px 0px;
+}
+.services a{
+  text-decoration: none;
+}
+
+main{
+  margin: 0px;
+  display: inline-block;
+}
+.p1{
+  margin: 0px;
+}
